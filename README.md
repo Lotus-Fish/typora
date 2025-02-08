@@ -1,0 +1,2 @@
+# typora
+typora‘s images
